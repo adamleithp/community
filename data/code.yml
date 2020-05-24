@@ -2063,3 +2063,11 @@ resources:
     stars: 8
     last_updated: '2020-05-22T15:18:25Z'
     downloads: 812
+  - name: '`jamstack-translate`'
+    url: 'https://github.com/adamleithp/jamstack-translate'
+    description: Generate static translations for your svelte project.
+    tags:
+      - jamstack translation
+      - multibundle
+    stars: 0
+    last_updated: '2020-05-24T48:18:25Z'
